@@ -14,7 +14,7 @@ def screenRightClick(x, y):
 
 def screenMidClick(x, y):
     global r, g, b
-    tSize = random.randrange(1, 10) # 1에서 10 사이의 랜덤 값
+    tSize = random.randrange(1, 10)     # 1에서 10 사이의 랜덤 값
     turtle.shapesize(tSize)
     r = random.random()
     g = random.random()
