@@ -1,4 +1,4 @@
-# ex8.py
+# myTurtle.py
 
 ch = ""
 a, b = 0, 0
